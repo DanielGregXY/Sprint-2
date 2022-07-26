@@ -9,3 +9,4 @@ public class YRecord {
         this.isExpense = isExpense;
     }
 }
+// aa

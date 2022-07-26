@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 
 public class MontlyReport {
-
+// aa
     File folder = new File("C:\\Users\\Daniel Greg\\dev\\Sprint-two\\yapraI\\resources");
 
     File[] listOfFiles = folder.listFiles(); // Считываем все файлы

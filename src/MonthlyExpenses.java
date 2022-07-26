@@ -1,4 +1,4 @@
-public class MonthlyExpenses {
+public class MonthlyExpenses { // aa
 
     int income; // доход
     int expense; // расход

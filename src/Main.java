@@ -25,7 +25,7 @@ public class Main {
         System.out.println("0 - Завершить работу программы. ");
         Scanner scanner = new Scanner(System.in);
 
-        while (true) {
+        while (true) { // Свич кейс
 
             int command = scanner.nextInt();
 

@@ -3,7 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Scanner;
 
-public class MonthHelper {
+public class MonthHelper { // .
 
     public String getMonthName(int index){
 
